@@ -22,7 +22,11 @@ Run the server with npm start.
 
 **Endpoints**
 POST /api/addCity: Add a new city.
+
 GET /api/cities: Get all cities with options for pagination and filtering.
+
 GET /api/cities/:id: Get a city by its ID.
+
 PUT /api/cities/updateCity/:id: Update a city.
+
 DELETE /api/cities/deleteCity/:id: Delete a city by ID.
